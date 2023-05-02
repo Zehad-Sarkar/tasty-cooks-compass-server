@@ -1,0 +1,164 @@
+[
+  {
+    "id": "abc1",
+    "name": "Chef DeeDee",
+    "picture": "https://images.squarespace-cdn.com/content/v1/622a1f3d718e915edd96c467/db020ee8-e581-40ca-990f-970c7baffc83/dd-headshot-chaiyo-chucky.png?format=500w",
+    "bio": "Chef DeeDee Niyomkul began her career in the restaurant industry at a very young age. Growing up as the daughter of Atlanta Thai food legends Charlie & Nan Niyomkul (Nan Thai Fine Dining & Tamarind), DeeDee found herself working nearly every position in her family’s restaurants, including hosting, bartending, waitressing, and managing. However, she discovered that her real passion was working in the kitchen.",
+    "likes": 345,
+    "experience": "20 years",
+    "numRecipes": 30,
+    "ingredients":[
+      "Galangal ",
+      "Makrut Limes and Leaves  ",
+      "Lemongrass",
+      "Sticky rice",
+      "Oyster sauce",
+      "ChSpices and spice blendsilies"
+    ],
+    "recipe_name": [
+      "Green curry paste",
+      "Green curry chicken",
+      "Hot & sour mushroom soup",
+      "Tofu in coconut milk ",
+      "Black pepper beef",
+      "Thai Fried Rice"
+    ],
+    "rating": 4.5,
+    "cookingMethod": " Stir-frying is a fast method to cook Thai food using high heat. This technique requires a wok or a big skillet, paired with a turner or spatula. To stir fry Thai dishes, add cooking oil while heating up the skillet, add prepared ingredients and stir quickly to cook through. After the food cooks, it is ready to serve immediately."
+  },
+  {
+    "id": "abc2",
+    "name": "Chef DeeDee",
+    "picture": "https://images.squarespace-cdn.com/content/v1/622a1f3d718e915edd96c467/db020ee8-e581-40ca-990f-970c7baffc83/dd-headshot-chaiyo-chucky.png?format=500w",
+    "bio": "Chef DeeDee Niyomkul began her career in the restaurant industry at a very young age. Growing up as the daughter of Atlanta Thai food legends Charlie & Nan Niyomkul (Nan Thai Fine Dining & Tamarind), DeeDee found herself working nearly every position in her family’s restaurants, including hosting, bartending, waitressing, and managing. However, she discovered that her real passion was working in the kitchen.",
+    "likes": 345,
+    "experience": "20 years",
+    "numRecipes": 30,
+    "ingredients": [
+      "Galangal ",
+      "Makrut Limes and Leaves  ",
+      "Lemongrass",
+      "Sticky rice",
+      "Oyster sauce",
+      "ChSpices and spice blendsilies"
+    ],
+    "recipe_name": [
+      "Green curry paste",
+      "Green curry chicken",
+      "Hot & sour mushroom soup",
+      "Tofu in coconut milk ",
+      "Black pepper beef",
+      "Thai Fried Rice"
+    ],
+    "rating": 4.5,
+    "cookingMethod": " Stir-frying is a fast method to cook Thai food using high heat. This technique requires a wok or a big skillet, paired with a turner or spatula. To stir fry Thai dishes, add cooking oil while heating up the skillet, add prepared ingredients and stir quickly to cook through. After the food cooks, it is ready to serve immediately."
+  },
+  {
+    "id": "abc3",
+    "name": "Chef DeeDee",
+    "picture": "https://images.squarespace-cdn.com/content/v1/622a1f3d718e915edd96c467/db020ee8-e581-40ca-990f-970c7baffc83/dd-headshot-chaiyo-chucky.png?format=500w",
+    "bio": "Chef DeeDee Niyomkul began her career in the restaurant industry at a very young age. Growing up as the daughter of Atlanta Thai food legends Charlie & Nan Niyomkul (Nan Thai Fine Dining & Tamarind), DeeDee found herself working nearly every position in her family’s restaurants, including hosting, bartending, waitressing, and managing. However, she discovered that her real passion was working in the kitchen.",
+    "likes": 345,
+    "experience": "20 years",
+    "numRecipes": 30,
+    "ingredients": [
+      "Galangal ",
+      "Makrut Limes and Leaves  ",
+      "Lemongrass",
+      "Sticky rice",
+      "Oyster sauce",
+      "ChSpices and spice blendsilies"
+    ],
+    "recipe_name": [
+      "Green curry paste",
+      "Green curry chicken",
+      "Hot & sour mushroom soup",
+      "Tofu in coconut milk ",
+      "Black pepper beef",
+      "Thai Fried Rice"
+    ],
+    "rating": 4.5,
+    "cookingMethod": "Boiling is a universal method of cooking every type of food, including Thai cuisine. Many recipes require quick boiling, slow cooking, simmering or stewing. Thai soup recipes typically first boil the water or stock. Herbs and fresh ingredients are then added to the soup, as well as seafood or meat. Thai curry recipes and Thai sauces need to be boiled and then simmered to be thickened."
+  },
+  {
+    "id": "abc4",
+    "name": "Chef DeeDee",
+    "picture": "https://images.squarespace-cdn.com/content/v1/622a1f3d718e915edd96c467/db020ee8-e581-40ca-990f-970c7baffc83/dd-headshot-chaiyo-chucky.png?format=500w",
+    "bio": "Chef DeeDee Niyomkul began her career in the restaurant industry at a very young age. Growing up as the daughter of Atlanta Thai food legends Charlie & Nan Niyomkul (Nan Thai Fine Dining & Tamarind), DeeDee found herself working nearly every position in her family’s restaurants, including hosting, bartending, waitressing, and managing. However, she discovered that her real passion was working in the kitchen.",
+    "likes": 345,
+    "experience": "20 years",
+    "numRecipes": 30,
+    "ingredients": [
+      "Galangal ",
+      "Makrut Limes and Leaves  ",
+      "Lemongrass",
+      "Sticky rice",
+      "Oyster sauce",
+      "ChSpices and spice blendsilies"
+    ],
+    "recipe_name": [
+      "Green curry paste",
+      "Green curry chicken",
+      "Hot & sour mushroom soup",
+      "Tofu in coconut milk ",
+      "Black pepper beef",
+      "Thai Fried Rice"
+    ],
+    "rating": 4.5,
+    "cookingMethod": " Grilling is typically the choice for making marinated meats or vegetables on the grill. Grilling technique features a smoky taste and smell. Chicken Satay on skewers is a grilled Thai barbeque recipe served with peanut sauce and cucumber salad."
+  },
+  {
+    "id": "abc5",
+    "name": "Chef DeeDee",
+    "picture": "https://images.squarespace-cdn.com/content/v1/622a1f3d718e915edd96c467/db020ee8-e581-40ca-990f-970c7baffc83/dd-headshot-chaiyo-chucky.png?format=500w",
+    "bio": "Chef DeeDee Niyomkul began her career in the restaurant industry at a very young age. Growing up as the daughter of Atlanta Thai food legends Charlie & Nan Niyomkul (Nan Thai Fine Dining & Tamarind), DeeDee found herself working nearly every position in her family’s restaurants, including hosting, bartending, waitressing, and managing. However, she discovered that her real passion was working in the kitchen.",
+    "likes": 345,
+    "experience": "20 years",
+    "numRecipes": 30,
+    "ingredients": [
+      "Makrut Limes and Leaves  ",
+      "Galangal ",
+      "Lemongrass",
+      "Sticky rice",
+      "Oyster sauce",
+      "ChSpices and spice blendsilies"
+    ],
+    "recipe_name": [
+      "Black pepper beef",
+      "Hot & sour mushroom soup",
+      "Green curry paste",
+      "Tofu in coconut milk ",
+      "Green curry chicken",
+      "Thai Fried Rice"
+    ],
+    "rating": 4.5,
+    "cookingMethod": " Stir-frying is a fast method to cook Thai food using high heat. This technique requires a wok or a big skillet, paired with a turner or spatula. To stir fry Thai dishes, add cooking oil while heating up the skillet, add prepared ingredients and stir quickly to cook through. After the food cooks, it is ready to serve immediately."
+  },
+  {
+    "id": "abc6",
+    "name": "Chef DeeDee",
+    "picture": "https://images.squarespace-cdn.com/content/v1/622a1f3d718e915edd96c467/db020ee8-e581-40ca-990f-970c7baffc83/dd-headshot-chaiyo-chucky.png?format=500w",
+    "bio": "Chef DeeDee Niyomkul began her career in the restaurant industry at a very young age. Growing up as the daughter of Atlanta Thai food legends Charlie & Nan Niyomkul (Nan Thai Fine Dining & Tamarind), DeeDee found herself working nearly every position in her family’s restaurants, including hosting, bartending, waitressing, and managing. However, she discovered that her real passion was working in the kitchen.",
+    "likes": 345,
+    "experience": "20 years",
+    "numRecipes": 30,
+    "ingredients": [
+      "Makrut Limes and Leaves  ",
+      "Lemongrass",
+      "Galangal ",
+      "ChSpices and spice blendsilies",
+      "Sticky rice",
+      "Oyster sauce"
+    ],
+    "recipe_name": [
+      "Green curry paste",
+      "Green curry chicken",
+      "Hot & sour mushroom soup",
+      "Tofu in coconut milk ",
+      "Black pepper beef",
+      "Thai Fried Rice"
+    ],
+    "rating": 4.5,
+    "cookingMethod": "Deep frying describes using a large amount of oil in a deep pan. Many Thai appetizers and Thai fish recipes are cooked by deep frying the food. The temperature is quite important usually involving very high heat and fast cooking."
+  }
+]
