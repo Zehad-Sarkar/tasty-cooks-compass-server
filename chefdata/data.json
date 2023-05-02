@@ -5,6 +5,7 @@
     "imgLink": "https://thumbs.dreamstime.com/b/thai-chef-cooking-fried-meat-vegetables-donburi-japanese-food-show-customer-serve-modern-restaurant-bangyai-city-184967398.jpg",
     "experience": "10 years",
     "numberOfRecipes": 50,
+     "chef_rating": 4.0,
     "likes": 2000,
     "recipes": [
       {
@@ -27,6 +28,7 @@
     "imgLink": "https://glamadelaide.com.au/wp-content/uploads/2021/08/The-Pantry-1.jpeg",
     "experience": "5 years",
     "numberOfRecipes": 30,
+     "chef_rating": 4.1,
     "likes": 1500,
     "recipes": [
       {
@@ -49,6 +51,7 @@
     "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWPyHlNqXlUyFLSyltqAkfP7x1fbj8EkF0kA&usqp=CAU",
     "experience": "7 years",
     "numberOfRecipes": 40,
+     "chef_rating": 5.0,
     "likes": 1800,
     "recipes": [
       {
@@ -71,6 +74,7 @@
     "imgLink": "https://media.istockphoto.com/id/1408797987/photo/chef-decorating-a-plate-while-working-in-the-kitchen-at-a-restaurant.jpg?b=1&s=170667a&w=0&k=20&c=051trCkQfpVapBF2QVgpL0Hm-OftxJt1zzR-5Jgwj8A=",
     "experience": "10 years",
     "numberOfRecipes": 50,
+     "chef_rating": 4.7,
     "likes": 2000,
     "recipes": [
       {
@@ -93,6 +97,7 @@
     "imgLink": "https://thumbs.dreamstime.com/b/chef-hold-wok-fire-kitchen-restaurant-portrait-cook-man-uniform-prepare-food-professional-187004045.jpg",
     "experience": "5 years",
     "numberOfRecipes": 30,
+     "chef_rating": 4.8,
     "likes": 1500,
     "recipes": [
       {
@@ -115,6 +120,7 @@
     "imgLink": "https://media.istockphoto.com/id/1391236717/photo/world-famous-restaurant-asian-female-chef-cooking-delicious-and-authentic-food-uses-digital.jpg?b=1&s=170667a&w=0&k=20&c=B6oVDp7V3-0rYCNUIg-VWx0N6ML9TJT2ES6JywqL46A=" ,
     "experience": "7 years",
     "numberOfRecipes": 40,
+     "chef_rating": 4.2,
     "likes": 1800,
     "recipes": [
       {
