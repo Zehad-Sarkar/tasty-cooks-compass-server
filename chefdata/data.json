@@ -3,10 +3,19 @@
     "id": "ab1f",
     "name": "Adelaide John",
     "imgLink": "https://thumbs.dreamstime.com/b/thai-chef-cooking-fried-meat-vegetables-donburi-japanese-food-show-customer-serve-modern-restaurant-bangyai-city-184967398.jpg",
+    "bio": "Chef DeeDee Niyomkul began her career in the restaurant industry at a very young age. Growing up as the daughter of Atlanta Thai food legends Charlie & Nan Niyomkul (Nan Thai Fine Dining & Tamarind), DeeDee found herself working nearly every position in her family’s restaurants, including hosting, bartending, waitressing, and managing. However, she discovered that her real passion was working in the kitchen.",
     "experience": "10 years",
     "numberOfRecipes": 50,
-     "chef_rating": 4.0,
+    "chef_rating": 4.0,
     "likes": 2000,
+    "ingredients": [
+      "Makrut Limes and Leaves  ",
+      "Lemongrass",
+      "Galangal ",
+      "ChSpices and spice blendsilies",
+      "Sticky rice",
+      "Oyster sauce"
+    ],
     "recipes": [
       {
         "name": "Spicy Thai Basil Chicken",
@@ -20,16 +29,26 @@
         "name": "Pad See Ew",
         "rating": 4.8
       }
-    ]
+    ],
+    "cookingMethod": "Deep frying describes using a large amount of oil in a deep pan. Many Thai appetizers and Thai fish recipes are cooked by deep frying the food. The temperature is quite important usually involving very high heat and fast cooking."
   },
   {
     "id": "ab2fc",
     "name": "Glam Adelaide",
     "imgLink": "https://glamadelaide.com.au/wp-content/uploads/2021/08/The-Pantry-1.jpeg",
+    "bio": "Chef DeeDee Niyomkul began her career in the restaurant industry at a very young age. Growing up as the daughter of Atlanta Thai food legends Charlie & Nan Niyomkul (Nan Thai Fine Dining & Tamarind), DeeDee found herself working nearly every position in her family’s restaurants, including hosting, bartending, waitressing, and managing. However, she discovered that her real passion was working in the kitchen.",
     "experience": "5 years",
     "numberOfRecipes": 30,
-     "chef_rating": 4.1,
+    "chef_rating": 4.1,
     "likes": 1500,
+    "ingredients": [
+      "Makrut Limes and Leaves  ",
+      "Lemongrass",
+      "Galangal ",
+      "ChSpices and spice blendsilies",
+      "Sticky rice",
+      "Oyster sauce"
+    ],
     "recipes": [
       {
         "name": "Tom Yum Soup",
@@ -43,16 +62,26 @@
         "name": "Papaya Salad",
         "rating": 4.1
       }
-    ]
+    ],
+    "cookingMethod": "Deep frying describes using a large amount of oil in a deep pan. Many Thai appetizers and Thai fish recipes are cooked by deep frying the food. The temperature is quite important usually involving very high heat and fast cooking."
   },
   {
     "id": "ab3cf",
     "name": "Bill Pat",
     "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWPyHlNqXlUyFLSyltqAkfP7x1fbj8EkF0kA&usqp=CAU",
+    "bio": "Chef DeeDee Niyomkul began her career in the restaurant industry at a very young age. Growing up as the daughter of Atlanta Thai food legends Charlie & Nan Niyomkul (Nan Thai Fine Dining & Tamarind), DeeDee found herself working nearly every position in her family’s restaurants, including hosting, bartending, waitressing, and managing. However, she discovered that her real passion was working in the kitchen.",
     "experience": "7 years",
     "numberOfRecipes": 40,
-     "chef_rating": 5.0,
+    "chef_rating": 5.0,
     "likes": 1800,
+    "ingredients": [
+      "Makrut Limes and Leaves  ",
+      "Lemongrass",
+      "Galangal ",
+      "ChSpices and spice blendsilies",
+      "Sticky rice",
+      "Oyster sauce"
+    ],
     "recipes": [
       {
         "name": "Pad Thai",
@@ -66,16 +95,26 @@
         "name": "Tom Kha Gai",
         "rating": 4.2
       }
-    ]
+    ],
+    "cookingMethod": "Deep frying describes using a large amount of oil in a deep pan. Many Thai appetizers and Thai fish recipes are cooked by deep frying the food. The temperature is quite important usually involving very high heat and fast cooking."
   },
   {
     "id": "ab4df",
     "name": "Kallen Joha",
     "imgLink": "https://media.istockphoto.com/id/1408797987/photo/chef-decorating-a-plate-while-working-in-the-kitchen-at-a-restaurant.jpg?b=1&s=170667a&w=0&k=20&c=051trCkQfpVapBF2QVgpL0Hm-OftxJt1zzR-5Jgwj8A=",
+    "bio": "Chef DeeDee Niyomkul began her career in the restaurant industry at a very young age. Growing up as the daughter of Atlanta Thai food legends Charlie & Nan Niyomkul (Nan Thai Fine Dining & Tamarind), DeeDee found herself working nearly every position in her family’s restaurants, including hosting, bartending, waitressing, and managing. However, she discovered that her real passion was working in the kitchen.",
     "experience": "10 years",
     "numberOfRecipes": 50,
-     "chef_rating": 4.7,
+    "chef_rating": 4.7,
     "likes": 2000,
+    "ingredients": [
+      "Makrut Limes and Leaves  ",
+      "Lemongrass",
+      "Galangal ",
+      "ChSpices and spice blendsilies",
+      "Sticky rice",
+      "Oyster sauce"
+    ],
     "recipes": [
       {
         "name": "Spicy Thai Basil Chicken",
@@ -89,16 +128,26 @@
         "name": "Pad See Ew",
         "rating": 4.8
       }
-    ]
+    ],
+    "cookingMethod": "Deep frying describes using a large amount of oil in a deep pan. Many Thai appetizers and Thai fish recipes are cooked by deep frying the food. The temperature is quite important usually involving very high heat and fast cooking."
   },
   {
     "id": "ab5gf",
     "name": "Jucker tom",
     "imgLink": "https://thumbs.dreamstime.com/b/chef-hold-wok-fire-kitchen-restaurant-portrait-cook-man-uniform-prepare-food-professional-187004045.jpg",
+    "bio": "Chef DeeDee Niyomkul began her career in the restaurant industry at a very young age. Growing up as the daughter of Atlanta Thai food legends Charlie & Nan Niyomkul (Nan Thai Fine Dining & Tamarind), DeeDee found herself working nearly every position in her family’s restaurants, including hosting, bartending, waitressing, and managing. However, she discovered that her real passion was working in the kitchen.",
     "experience": "5 years",
     "numberOfRecipes": 30,
-     "chef_rating": 4.8,
+    "chef_rating": 4.8,
     "likes": 1500,
+    "ingredients": [
+      "Makrut Limes and Leaves  ",
+      "Lemongrass",
+      "Galangal ",
+      "ChSpices and spice blendsilies",
+      "Sticky rice",
+      "Oyster sauce"
+    ],
     "recipes": [
       {
         "name": "Tom Yum Soup",
@@ -112,16 +161,26 @@
         "name": "Papaya Salad",
         "rating": 4.1
       }
-    ]
+    ],
+    "cookingMethod": "Deep frying describes using a large amount of oil in a deep pan. Many Thai appetizers and Thai fish recipes are cooked by deep frying the food. The temperature is quite important usually involving very high heat and fast cooking."
   },
   {
     "id": "ab6fcf",
     "name": "Hellen paul",
-    "imgLink": "https://media.istockphoto.com/id/1391236717/photo/world-famous-restaurant-asian-female-chef-cooking-delicious-and-authentic-food-uses-digital.jpg?b=1&s=170667a&w=0&k=20&c=B6oVDp7V3-0rYCNUIg-VWx0N6ML9TJT2ES6JywqL46A=" ,
+    "imgLink": "https://media.istockphoto.com/id/1391236717/photo/world-famous-restaurant-asian-female-chef-cooking-delicious-and-authentic-food-uses-digital.jpg?b=1&s=170667a&w=0&k=20&c=B6oVDp7V3-0rYCNUIg-VWx0N6ML9TJT2ES6JywqL46A=",
+    "bio": "Chef DeeDee Niyomkul began her career in the restaurant industry at a very young age. Growing up as the daughter of Atlanta Thai food legends Charlie & Nan Niyomkul (Nan Thai Fine Dining & Tamarind), DeeDee found herself working nearly every position in her family’s restaurants, including hosting, bartending, waitressing, and managing. However, she discovered that her real passion was working in the kitchen.",
     "experience": "7 years",
     "numberOfRecipes": 40,
-     "chef_rating": 4.2,
+    "chef_rating": 4.2,
     "likes": 1800,
+    "ingredients": [
+      "Makrut Limes and Leaves  ",
+      "Lemongrass",
+      "Galangal ",
+      "ChSpices and spice blendsilies",
+      "Sticky rice",
+      "Oyster sauce"
+    ],
     "recipes": [
       {
         "name": "Pad Thai",
@@ -135,6 +194,7 @@
         "name": "Tom Kha Gai",
         "rating": 4.2
       }
-    ]
+    ],
+    "cookingMethod": "Deep frying describes using a large amount of oil in a deep pan. Many Thai appetizers and Thai fish recipes are cooked by deep frying the food. The temperature is quite important usually involving very high heat and fast cooking."
   }
 ]
