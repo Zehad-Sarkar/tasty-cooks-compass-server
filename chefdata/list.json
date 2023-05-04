@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Curries",
+    "description": "Experience the vibrant and bold flavors of Thai curries. From the fiery heat of green curry to the milder but aromatic massaman curry, there's something for every spice level."
+  },
+  {
+    "id": "2",
+    "name": "Noodles",
+    "description": "From pad thai to drunken noodles, Thai cuisine is known for its delicious and varied noodle dishes."
+  },
+  {
+    "id": "3",
+    "name": "Soups",
+    "description": "Tom yum and tom kha gai are just a few examples of the rich and flavorful soups that Thai cuisine has to offer."
+  },
+  {
+    "id": "4",
+    "name": "Salads",
+    "description": "Thai salads are known for their bright and bold flavors, often featuring a combination of sweet, sour, spicy, and savory ingredients."
+  },
+  {
+    "id": "5",
+    "name": "Stir-fries",
+    "description": "Stir-frying is a popular cooking technique in Thai cuisine, allowing for quick and flavorful meals that are perfect for weeknight dinners."
+  }
+]
